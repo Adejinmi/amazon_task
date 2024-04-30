@@ -31,7 +31,7 @@ npm start
 ```
 
 #### Frontend 
-* frontend/index.html
+* The webpage can be found in the folder frontend/index.html
 
 ## Authors
 
