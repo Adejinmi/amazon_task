@@ -1,6 +1,6 @@
 # Project Title
 
-AMAZION SCRAPING TASK
+AMAZON SCRAPING TASK
 
 ## Description
 
